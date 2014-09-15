@@ -1,5 +1,9 @@
 ##myos.android.libraries
 
+* Depends on:
+  * [Android SDK](http://developer.android.com/sdk/index.html)
+  * [myos.android.sdk](https://github.com/amraboelela/myos.android.sdk)
+  
 * Add MYOS_PATH line to ~/.bash_profile, example:
 
         export MYOS_PATH=~/develop/myos
