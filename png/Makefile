@@ -1,8 +1,6 @@
 
 LIB_NAME=png
-#CFLAGS=-DDEBUG
-#LDLIBS= -lz
-#LDFLAGS=-v -Wl,--no-undefined
+
 OBJECTS = \
 	png.o \
 	pngerror.o \
@@ -22,4 +20,4 @@ OBJECTS = \
 	pngwtran.o \
 	pngwutil.o \
 
-include ${MY_FRAMEWORKS_PATH}/resources/makefile-static
+include ${MYOS_PATH}/android/sdk/resources/makefile-static

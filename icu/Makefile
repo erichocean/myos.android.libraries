@@ -338,4 +338,4 @@ OBJECTS = \
     zrule.o \
     ztrans.o \
 
-include ${MY_FRAMEWORKS_PATH}/resources/makefile-static
+include ${MYOS_PATH}/android/sdk/resources/makefile-static

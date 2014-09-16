@@ -3,9 +3,9 @@
 #
 
 echo
-echo "****************************** libraries ******************************"
+echo "****************************** Building libraries ******************************"
 
-CAN_CLEAN=NO
+#CAN_CLEAN=NO
 TARGET=Universal
 
 cd objc
@@ -68,4 +68,4 @@ cd MAKit
 source ${MYOS_PATH}/android/sdk/scripts/common-build.sh
 cd ..
 
-CAN_CLEAN=YES
+#CAN_CLEAN=YES
