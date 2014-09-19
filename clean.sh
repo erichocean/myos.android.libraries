@@ -41,9 +41,9 @@ cd lcms
 make clean
 cd ..
 
-cd MAGLESv1_enc
-make clean
-cd ..
+#cd MAGLESv1_enc
+#make clean
+#cd ..
 
 #cd MARenderControl_enc
 #make clean

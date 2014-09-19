@@ -44,9 +44,9 @@ cd lcms
 source ${MYOS_PATH}/android/sdk/scripts/common-build.sh
 cd ..
 
-cd MAGLESv1_enc
-source ${MYOS_PATH}/android/sdk/scripts/common-build.sh
-cd ..
+#cd MAGLESv1_enc
+#source ${MYOS_PATH}/android/sdk/scripts/common-build.sh
+#cd ..
 
 #cd MARenderControl_enc
 #source ${MYOS_PATH}/android/sdk/scripts/common-build.sh
