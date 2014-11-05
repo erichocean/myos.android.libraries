@@ -14,11 +14,11 @@
 		<string>https://github.com/amraboelela/myos.android.libraries.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>libraries/libraries.xcodeproj/project.xcworkspace</string>
+	<string>libraries.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>D3984560495A5159F430FACA564D8BEA4C5D82EA</key>
-		<string>../../..</string>
+		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/amraboelela/myos.android.libraries.git</string>
